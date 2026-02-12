@@ -25,15 +25,10 @@
 # About Me
 
 - System design before implementation.
-
 - Architecture as the first constraint.
-
 - Scale, reliability, maintainability.
-
 - Backend robustness. Frontend consistency.
-
 - Business logic translated into robust systems.
-
 ---
 
 # Business Impact
