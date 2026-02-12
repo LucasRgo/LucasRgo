@@ -1,5 +1,5 @@
 <h1 align="center">Lucas R. Goveia</h1>
-<h3 align="center">Full Stack Developer • Django + React • SaaS + AI Systems</h3>
+<h3 align="center">Full Stack Engineer • Django + React • System Design & Architecture</h3>
 
 <p align="center">
   <a href="https://lucasrgoveia.com.br">
