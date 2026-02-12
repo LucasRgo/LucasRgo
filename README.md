@@ -24,11 +24,15 @@
 
 # About Me
 
-- Full Stack Developer specialized in `Django + React`
-- Strong product mindset (growth, retention, recurring revenue)
-- Production-focused engineering
-- SaaS builder with AI-assisted workflows
-- Performance and conversion driven architecture
+- System design before implementation.
+
+- Architecture as the first constraint.
+
+- Scale, reliability, maintainability.
+
+- Backend robustness. Frontend consistency.
+
+- Business logic translated into robust systems.
 
 ---
 
