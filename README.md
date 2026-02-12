@@ -113,15 +113,6 @@
 
 ---
 
-## GitHub Analytics
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasRgo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRgo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 ## Let's Build Something Big
 
 <p>
