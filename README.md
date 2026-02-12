@@ -103,10 +103,26 @@
   </tr>
 </table>
 
----
-
 ## Certifications
 
-- CS50x (Harvard)
-- CS50W (Harvard)
-- CS50P (Harvard)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://lucasrgoveia.com.br/CS50x.webp" alt="CS50x Certificate" width="260"/><br/>
+      <b>CS50's Introduction to Computer Science</b><br/>
+      <sub>Harvard University (CS50x)</sub>
+    </td>
+    <td align="center">
+      <img src="https://lucasrgoveia.com.br/CS50W.webp" alt="CS50W Certificate" width="260"/><br/>
+      <b>CS50's Web Programming with Python and JavaScript</b><br/>
+      <sub>Harvard University (CS50W)</sub>
+    </td>
+    <td align="center">
+      <img src="https://lucasrgoveia.com.br/CS50P.webp" alt="CS50P Certificate" width="260"/><br/>
+      <b>CS50's Introduction to Programming with Python</b><br/>
+      <sub>Harvard University (CS50P)</sub>
+    </td>
+  </tr>
+</table>
+
+---
